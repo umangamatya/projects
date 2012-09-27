@@ -1,0 +1,1 @@
+This is my thesis project. It contains 3 projects. I made it using java. 
