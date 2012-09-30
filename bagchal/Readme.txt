@@ -1,0 +1,1 @@
+It is a game of goat and lion. Lion kills goat if it finds space after goat. Goat has to block lion from moving. 
