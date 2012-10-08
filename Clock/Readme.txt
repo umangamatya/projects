@@ -1,0 +1,1 @@
+This is a simple program that shows Clock. The clock has two display (LED and Normal). I have used Abstract Factory Design Pattern to change the display. User Controls are used to display LED. The LED displayed is simply a collection of small buttons. 
