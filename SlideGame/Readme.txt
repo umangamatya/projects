@@ -1,1 +1,1 @@
-This is simple slidegame
+This is simple slidegame. You can slide the blocks. There are 9 blocks present and one open space. You need to keep all the blocks as 1,2,3,4,5,6,7,8,9. If they are ordered in this pattern, then you will win it. You can move the block to empty space by clicking the block. The block can move left, right, top and bottom if they have empty space.

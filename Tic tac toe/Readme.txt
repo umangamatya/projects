@@ -1,1 +1,1 @@
-This is simple tic tac toe game
+This is simple tic tac toe game. You can click the button to select your move. Once you fill your pattern in three consecutive boxes horizontally, vertically or diagonally, you are done.

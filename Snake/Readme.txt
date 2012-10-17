@@ -1,1 +1,1 @@
-This is a game containing snake and eggs. 
+This is a game containing snake and eggs. You are the snake and you have to eat eggs. When you see an egg, you need to move the snake and get those eggs. If you touch yourself or hit walls or hit the obstacles, you will die. The snake also increases its size after eating eggs.

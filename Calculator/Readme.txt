@@ -1,1 +1,1 @@
-This is a simple calculator. 
+This is a simple calculator. You can add, subtract, multiply, divide. You can cancel your entry, save it to memory, get data from memory. It performs all the functions performed by normal simple calculator. I used the concept of Stack for developing it. It is made on C#. 
